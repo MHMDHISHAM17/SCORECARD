@@ -1,0 +1,114 @@
+body {
+    margin: 0;
+    width: 575px;
+    height: 385px;
+    background-color: #1B244A;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+.box{
+    
+width: 155px;
+height: 120px;
+flex-shrink: 0;
+border-radius: 5px;
+background: #080001;
+}
+.box-txt{
+    
+width: 117px;
+height: 120px;
+flex-shrink: 0;
+color: #F94F6D;
+text-align:center;
+font-family: "Cursed Timer ULiL";
+font-size: 90px;
+font-style: normal;
+font-weight: 400;
+line-height: 126.666px; /* 140.74% */
+
+}
+.btn-brd{
+    background-color: #1B244A;
+    width: 45px;
+height: 45px;
+flex-shrink: 0;
+border-radius: 5px;
+border: 2px solid #9AABD8;
+color: #9AABD8;
+text-align: center;
+font-family: "Cursed Timer ULiL";
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 27.812px; /* 154.509% */
+}body {
+    margin: 0;
+    background-color: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+.hed{
+    color: #EEE;
+text-align: center;
+font-family: Verdana;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: 35.893px; /* 89.732% */
+margin-bottom: 25px;
+}
+.src-bord{
+    width: 100%; 
+    height: 100%;
+    
+    
+}
+.src-mark{
+    width: 100%; height: 100%; text-align: center; color: #F94F6D; font-size: 90px; font-family: Cursed Timer ULiL; font-weight: 400; line-height: 126.67px; word-wrap: break-word;border-radius: 5px;
+background: #080001;
+    
+}
+.btn-box{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0px 0px 0px;
+    
+    
+}
+.btn-sty{
+    border-radius: 5px;
+border: 2px solid #9AABD8;
+background-color: #1B244A;
+color: #9AABD8;
+font-family: Cursed Timer ULiL;
+text-align: center;
+padding: 5px;
+
+}
+#new-game {
+    
+    margin-left: 220px;
+    margin-right: auto;
+      margin-top: 40px;
+      font-size: 24px;
+      border-color: gold;
+          border-radius: 5px;
+border: 2px solid #9AABD8;
+background-color: #1B244A;
+color: #9AABD8;
+font-family: Cursed Timer ULiL;
+padding-top: 5px;
+      
+      /* display: flex;
+      align-items: center;
+      justify-content: center; */
+          }
